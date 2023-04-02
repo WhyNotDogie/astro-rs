@@ -4,7 +4,7 @@
   "description": "Astral Rust web framework",
   "main": "lib/api/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "tsc"
   },
   "repository": {
     "type": "git",
