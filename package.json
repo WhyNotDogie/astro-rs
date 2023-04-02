@@ -1,0 +1,24 @@
+{
+  "name": "astro-rs",
+  "version": "1.0.0",
+  "description": "Astral Rust web framework",
+  "main": "lib/api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhyNotDogie/astro-rs.git"
+  },
+  "keywords": [
+    "web",
+    "framework",
+    "rust"
+  ],
+  "author": "WhyNotDogie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhyNotDogie/astro-rs/issues"
+  },
+  "homepage": "https://github.com/WhyNotDogie/astro-rs#readme"
+}
